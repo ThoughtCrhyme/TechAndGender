@@ -40,6 +40,9 @@ http://www.mckinsey.com/global-themes/leadership/its-good-to-be-the-queen-but-it
 * The Economist, "Sex Differences in Academia: University Challenge" 1/17/15
 http://www.economist.com/news/science-and-technology/21639439-women-are-scarce-some-not-all-academic-disciplines-new-work-suggests
 
+* Freakonomics, "The True Story of the Gender Pay Gap" 1/7/16
+http://freakonomics.com/podcast/the-true-story-of-the-gender-pay-gap-a-new-freakonomics-radio-podcast/
+
 ##Women in technology:
 
 * Sticky Minds, "Why You Need Female Tests on Your Team" 2/2/15
