@@ -48,7 +48,7 @@ http://blog.penelopetrunk.com/2016/05/11/too-little-too-late-sheryl-sandberg-apo
 
 ##Women in technology:
 
-* Sticky Minds, "Why You Need Female Tests on Your Team" 2/2/15
+* Sticky Minds, "Why You Need Female Testers on Your Team" 2/2/15
 https://www.stickyminds.com/article/why-you-need-female-testers-your-team
 
 * Fast Company, "How Two Bored 1970s Housewives Helped Create The PC Industry"
