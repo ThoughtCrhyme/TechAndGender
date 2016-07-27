@@ -43,6 +43,9 @@ http://www.economist.com/news/science-and-technology/21639439-women-are-scarce-s
 * Freakonomics, "The True Story of the Gender Pay Gap" 1/7/16
 http://freakonomics.com/podcast/the-true-story-of-the-gender-pay-gap-a-new-freakonomics-radio-podcast/
 
+* Freakonomics, "What Are Gender Barriers Made Of?" 7/20/16
+http://freakonomics.com/podcast/gender-barriers/
+
 * Penelope Trunk (Blog), "Too little too late: Sheryl Sandberg apologizes for Lean In" 5/11/16
 http://blog.penelopetrunk.com/2016/05/11/too-little-too-late-sheryl-sandberg-apologizes-for-lean-in/
 
